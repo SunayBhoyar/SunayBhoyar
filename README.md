@@ -1,11 +1,18 @@
-![alt text](https://github.com/SunayBhoyar/SunayBhoyar/blob/master/banner.jpg?raw=true)
-
 # Hi , Sunay here -
-🔭 I’m currently working on Cross Platform Application development technologies mainly in the the field Flutter and also implementing the Augmented Reality (AR) and the AI / ML and implement the same in the Flutter .<br>🌱 I’m currently exploring the Flutter technology and its unbounded limits and the find new ways to implement the same in the Flutter technology . <br>💬 Ask me about AR technology and the Flutter Application Development .<br>⚡ Fun fact mostly people keep a professional mode ON on this platform but there are lot of other things i am currently also in to creation of the video story telling . 
+🔭 I’m currently working on Cross Platform Application development technologies mainly in the the field Flutter 
 
+                              Ư̴̡̡̤̩͍͓̈́̇̔̐ņ̷̮̮͓̼̚a̷̯̞̲͒̾̃b̶̪̱̗͎̂̄̓͜ḽ̴̡̹͉̲̙͌̍͌͒̈́e̸̥̓̒̇̒ ̶̙͒̈́̈̕͠͠t̷̨̛͎͛͗͐ó̵̖̟̝͙̋ ̴̯͎͎̙̹̓̿̿l̶͖̣̞̗͎̗͌͌̏̚ó̶̳͎̥̥̒̋͝a̴̭͇͙͗̓ḑ̶͙̈́̒̇̕ ̴̪̯̰̝͚̿́̏̕ͅt̵̝̩̰̘̝̑̽̀̔̓h̸͎̩̼͌͛̈́̏͒e̶̡̮̹̝̽͌̽̆̈̏ ̵̧̲̝͔͚̦̃c̸͚͔̠̰̄͑̀̈͜ơ̵̢̭͙̱͆̽͝͝n̵͕̖͔̒̀̕͠ṯ̶̓̓͝ë̵͖́̕ṋ̶͕͇̻͔̽͋̀̄͝t̶̢̹̥͈̄̌̒̿ ̶̬̩̖̘̱̃́͛̇͐̿b̸̡͉̱͒̍̐̌̌́͜ę̶̢̟͇̫͍̐̿̏l̴͍̼͔͎̼̦̿͊̋̂̅͝ớ̴̱̔̏͘w̸̦̩̝̏͌ ̴̠͊̊́̕̕
+
+cd /
+cat about.me | grep "skills" -i 
+-> I also have a keen intrest in the Field of C̷y̵b̶e̴r̶ security and want to become a ethical h̷a̴c̶k̵e̷r̸. 
+I have worked upon Linux Ubuntu , Kali and know basic pentesting tools ...
+
+sudo reboot
+->Content Restored 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_sunay_bhoyar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunaybhoyar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yanusuzushi5257) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunaybhoyar)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
