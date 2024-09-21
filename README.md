@@ -1,20 +1,4 @@
 # Hi , Sunay here -
-🔭 I’m currently working on Cross Platform Application development technologies mainly in the the field Flutter 
-
- ̷ ̷U̴n̸a̷b̴l̵e̵ ̵t̸o̵ ̶l̶o̵a̵d̴ ̵t̸h̷e̶ ̶c̸o̷n̶t̵e̶n̶t̴ ̶b̵e̴l̴o̶w̷ ̷
-
-
-    cd /
-    cat about.me | grep "skills" -i 
-    
--> I also have a keen intrest in the Field of C̷y̵b̶e̴r̶ security and want to become a ethical h̷a̴c̶k̵e̷r̸. 
-I have worked upon Linux Ubuntu , Kali and know basic pentesting tools ...
-
-    sudo reboot
-    
-->Content Restored 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunaybhoyar)
 
