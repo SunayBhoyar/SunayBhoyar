@@ -113,10 +113,7 @@ const workExperience = {
         duration: "June 2024 - Aug 2024",
         achievements: [
             "Automated 250+ hours of manual work",
-            "Learned that corporate coffee is terrible",
-            "Discovered meetings could have been emails"
         ],
-        keyLearning: "How to look busy while code compiles"
     },
     
     "PICT Robotics": {
