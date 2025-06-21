@@ -157,14 +157,6 @@ Just kidding am a nerd.
 
 ---
 
-## 🐍 My Contribution Snake (It's Hungry for More Code!)
-
-<div align="center">
-  <img src="https://github.com/SunayBhoyar/SunayBhoyar/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 
 ## 🤝 Let's Connect! (I Don't Bite... Much)
 
