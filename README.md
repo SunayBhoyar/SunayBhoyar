@@ -98,7 +98,7 @@ A platform for solar energy solutions.
 ## 🏆 My Trophy Cabinet (Humble Brag Section)
 
 - 🥇 **PICT INC Concepts Winner** - Beat 120+ teams *(They clearly underestimated my Googling skills)*
-- 🥇 **MKSSS Cummins Techfest Winner** - Conquered 200+ teams *(The multiplayer game was multiplayer-level impressive)*
+- 🥇 **MKSSS Cummins Techfest Innovation Winner** - Conquered 200+ teams *(The multiplayer game was multiplayer-level impressive)*
 - 🏅 **Unscript Rookies Hackathon Finalist** - 6th out of 1000+ teams *(Top 1%... in participation)*
 - ⭐ **3-Star CodeChef Coder** - *(Still working on that 4th star... but cant find the tab)*
 
