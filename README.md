@@ -1,92 +1,184 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello+World%2C+I'm+Sunay+Bhoyar!;I+turn+coffee+into+code...;And+bugs+into+features+%F0%9F%90%9B;Welcome+to+my+digital+realm!" alt="Typing SVG" />
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="200">
+<div align="center">
 
-# Hi there, I'm Sunay Bhoyar! 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunaybhoyar)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SunayBhoyar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhoyar.sunay@gmail.com)
 
-[![GitHub followers](https://img.shields.io/github/followers/SunayBhoyar?label=Follow&style=social)](https://github.com/SunayBhoyar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/sunaybhoyar/)
-
-I’m currently pursuing my **B.E. in Computer Engineering** at **Pune Institute of Computer Technology**, and I love working on cutting-edge technologies in development, competitive programming, and cybersecurity!
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
-**Development:**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-
-**Data Science:**
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-2560E0?logo=azure-pipelines&logoColor=white)
-
-**Security:**
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/-Networking-1DA1F2?logo=network)
+</div>
 
 ---
 
-## 🚀 Projects
+## 🤓 About This Human.exe
 
-- **[ResearchSphere](https://github.com/kishanlalchoudhary/ResearchSphere)**  
-  A web platform connecting students with professors for research collaborations. Built with React, Tailwind CSS, and Django.
+```python
+class SunayBhoyar:
+    def __init__(self):
+        self.name = "Sunay Bhoyar"
+        self.role = "Professional Bug Creator... I mean, Software Developer 🐛"
+        self.location = "Pune, India"
+        self.education = "PICT - Yes, we have the biggest campus"
+        self.cgpa = 9.34        # Yes, I'm that nerd who mentions CGPA
+        self.debugging_skills = "I mean 'It works on my machine'"
+        
+    def current_status(self):
+        return {
+            "learning": "Differnt works that can be done with chatgpt",
+            "building": "Projects that work (mostly)",
+            "pretending": "I know what I'm doing",
+        }
+    
+    def life_motto(self):
+        return "There are only 10 types of people: those who understand binary and those who don't"
+```
 
-- **[Solar Intelligence](https://github.com/shxntanu/solar-intelligence/tree/main/client)**  
-  A Next.js-based platform that helps residential areas set up solar-powered energy solutions.
+**Fun Facts About Me:**
+- 🎓 **BE Computer Engineering** at PICT | CGPA: 9.34 *(Yes, higher than your GitHub commit count)*
+- 🏆 **Team Captain** at PICT Robotics *(We do make spinning robots)*
+- 💼 **Ex-Northern Trust Intern** *(Saved them 250 hours)*
+- ⭐ **3-Star CodeChef Coder** 
+- 🧠 **IQ Level:** can center the div without google
+---
 
-- **[Awashyak](https://inc-awashyak-ba65-git-fork-ameyjoshi3068-master-sunaybhoyar.vercel.app/)**  
-  Mobile app providing medicine database management for local medical shops, built with Flutter and MongoDB.
+## 🛠️ My Arsenal of Digital Destruction
 
-- **[Analysis on Email Spoofing](https://drive.google.com/file/d/1vwojoe1XLZ_epWh3pNisJtfIeLSnOWrh/view?usp=sharing)**  
-  Research project testing email spoofing on modern SMTP services and providing security recommendations.
+### Languages I Speak 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) *The OG pain*  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) *For when I want to feel smart*  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) *Breakpoints and it works*  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) *Microsoft's baby only for unity*  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) *still on first lecture*
+
+### Frontend (Making Things Look Pretty)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) *Can't hook into it*  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) *Routing is better*  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) *Second year thing*  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) *Asthetics*
+
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) *Only here for python*  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) *lazy developing*  
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white) *Cloud computing for the cultured*  
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) *Where money disappears*
+
+### Tools of Mass Creation
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) *Real programmers use the terminal*  
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) *Yes, our enginnering project was a game fr*  
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
-## 🏆 Achievements
+## 🎯 My Hall of Fame Projects (AKA "It Works on My Machine")
 
-- **Unscript Rookies Hackathon Finalist**  
-  Finalist among 1000+ teams for a 24-hour app development hackathon.
+### 🤖 [Compliance Helper](https://github.com/SunayBhoyar/Compliance-helper-BMC-Hackathon/blob/main/README.md)
+**Stack:** Python, Streamlit, Together AI  
+*"Teaching machines to follow rules better than humans do"*  
+An AI that generates compliance scripts because apparently, too lazy to read documentation. It ensures adherence to CIS and DISA standards while I pretend to understand what those acronyms mean.
 
-- **Abstract Development Skill Runner-Up**  
-  Secured 2nd place in an Ideathon event at PICT, among 50+ teams.
+### 📊 [Invoice Management Application](https://swipe-aide.vercel.app/)
+**Stack:** React, Redux, TailwindCSS, Gemini AI  
+*"Because Excel is so last century"*  
+Built an AI-powered app that reads invoices from PDFs and images. It's basically OCR with extra steps and a fancy UI. Redux for state management because I love unnecessary complexity.
 
-- **Codechef 3-Star Coder**  
-  Max rating: 1606 in competitive coding.
+### 🎮 [Multiplayer Game with AI Bots](https://drive.google.com/file/d/1sW4qYpprt4uwQt8vlWv_igPp7A0Hh93P/view?usp=sharing)
+**Stack:** Unity, Blender, Fusion, Reinforcement Learning  
+*"Creating digital creatures smarter than me"*  
+Developed a cross-platform multiplayer game with AI bots that use reinforcement learning. The bots are getting so good, sometimes i loose from them.
+
+### ☀️ [SolarIntelligence](https://github.com/SunayBhoyar/solar-intelligence/blob/main/README.md)
+**Stack:** Next.js, TailwindCSS, Node.js, Mistral AI  
+*"Harnessing the power of the sun, one website at a time"*  
+A platform for solar energy solutions.
+
+---
+
+## 🏆 My Trophy Cabinet (Humble Brag Section)
+
+- 🥇 **PICT INC Concepts Winner** - Beat 120+ teams *(They clearly underestimated my Googling skills)*
+- 🥇 **MKSSS Cummins Techfest Winner** - Conquered 200+ teams *(The multiplayer game was multiplayer-level impressive)*
+- 🏅 **Unscript Rookies Hackathon Finalist** - 6th out of 1000+ teams *(Top 1%... in participation)*
+- ⭐ **3-Star CodeChef Coder** - *(Still working on that 4th star... but cant find the tab)*
 
 ---
 
-## 🎯 What I’m Currently Up To
+## 💼 My Professional Journey (Work Experience)
 
-- Learning more about **Robotics** and **Cybersecurity**
-- Working on IoT projects with **PICT Robotics** as Team Captain
-- Exploring **AI/ML** integration with cloud technologies
+```javascript
+const workExperience = {
+    "Northern Trust": {
+        role: "SDE Intern (Professional Coffee Consumer)",
+        duration: "June 2024 - Aug 2024",
+        achievements: [
+            "Automated 250+ hours of manual work",
+            "Learned that corporate coffee is terrible",
+            "Discovered meetings could have been emails"
+        ],
+        keyLearning: "How to look busy while code compiles"
+    },
+    
+    "PICT Robotics": {
+        role: "Team Captain (Robot Whisperer)",
+        duration: "Sept 2021 - Present",
+        responsibilities: [
+            "Teaching robots to rotate on position",
+            "Managing humans (harder than managing robots)",
+        ],
+        superPower: "Turning hardware failures into learning experiences"
+    }
+}
+```
 
 ---
 
-## 📫 How to Reach Me
+## 🎮 My Interests (When I'm Not Coding)
 
-- 📧 [bhoyar.sunay@gmail.com](mailto:bhoyar.sunay@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sunaybhoyar/)
-- 🖥️ [GitHub](https://github.com/SunayBhoyar)
+- 🤖 **Generative AI** - *Making machines creative so I don't have to be*
+- 🔒 **Cybersecurity** - *Protecting the world from my own code*
+- 🦾 **Robotics** - *Building our future overlords*
+- ⚙️ **DevOps** - *Making deployments less scary*
+- ☕ **Coffee Brewing** - *The most important skill for any developer*
+  
+Just kidding am a nerd.
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SunayBhoyar&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SunayBhoyar&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunayBhoyar&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats (The Proof is in the Pudding)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SunayBhoyar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SunayBhoyar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sunay's GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunayBhoyar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SunayBhoyar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SunayBhoyar&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 My Contribution Snake (It's Hungry for More Code!)
+
+<div align="center">
+  <img src="https://github.com/SunayBhoyar/SunayBhoyar/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+
+## 🤝 Let's Connect! (I Don't Bite... Much)
+
+Wanna collaborate on world domination... I mean, software development? Or just chat about why semicolons are optional in JavaScript but mandatory in life? Hit me up!
+
+- 📧 **Email:** bhoyar.sunay@gmail.com *(I actually check this)*
+- 💼 **LinkedIn:** [linkedin.com/in/sunaybhoyar](https://linkedin.com/in/sunaybhoyar) *(Professional mode activated)*
+- 🐱 **GitHub:** [github.com/SunayBhoyar](https://github.com/SunayBhoyar) *(You're already here, genius)*
+
+---
+
+<div align="center">
+  <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House 💫</h3>
+  <p><i>Currently debugging my life, one commit at a time...</i></p>
+</div>
+
+---
