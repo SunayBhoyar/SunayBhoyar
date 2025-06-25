@@ -12,7 +12,7 @@
 
 ---
 
-## 🤓 About This Human.exe
+## 🤓 About ME
 
 ```python
 class SunayBhoyar:
@@ -43,30 +43,26 @@ class SunayBhoyar:
 - 🧠 **IQ Level:** can center the div without google
 ---
 
-## 🛠️ My Arsenal of Digital Destruction
+## 🛠️ Things i can work with 
 
-### Languages I Speak 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) *The OG pain*  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) *For when I want to feel smart*  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) *Breakpoints and it works*  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) *Microsoft's baby only for unity*  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) *still on first lecture*
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Frontend (Making Things Look Pretty)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) *Can't hook into it*  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) *Routing is better*  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) *Second year thing*  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) *Asthetics*
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) *Only here for python*  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) *lazy developing*  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white) *Cloud computing for the cultured*  
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) *Where money disappears*
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Tools of Mass Creation
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) *Real programmers use the terminal*  
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) *Yes, our enginnering project was a game fr*  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
@@ -131,17 +127,13 @@ const workExperience = {
 ---
 
 ## 🎮 My Interests (When I'm Not Coding)
-
-- 🤖 **Generative AI** - *Making machines creative so I don't have to be*
-- 🔒 **Cybersecurity** - *Protecting the world from my own code*
-- 🦾 **Robotics** - *Building our future overlords*
-- ⚙️ **DevOps** - *Making deployments less scary*
-- ☕ **Coffee Brewing** - *The most important skill for any developer*
-  
+- 
+-
+- 
 Just kidding am a nerd.
 ---
 
-## 📊 GitHub Stats (The Proof is in the Pudding)
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SunayBhoyar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sunay's GitHub Stats" height="165">
@@ -162,12 +154,5 @@ Wanna collaborate on world domination... I mean, software development? Or just c
 - 📧 **Email:** bhoyar.sunay@gmail.com *(I actually check this)*
 - 💼 **LinkedIn:** [linkedin.com/in/sunaybhoyar](https://linkedin.com/in/sunaybhoyar) *(Professional mode activated)*
 - 🐱 **GitHub:** [github.com/SunayBhoyar](https://github.com/SunayBhoyar) *(You're already here, genius)*
-
----
-
-<div align="center">
-  <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House 💫</h3>
-  <p><i>Currently debugging my life, one commit at a time...</i></p>
-</div>
 
 ---
